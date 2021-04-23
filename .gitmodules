@@ -1,0 +1,6 @@
+[submodule "hw-sinatra-saas-hangperson"]
+	path = hw-sinatra-saas-hangperson
+	url = git@github.com:saasbook/hw-sinatra-saas-hangperson.git
+[submodule ".guides/secure/hw-sinatra-saas-hangperson-ci"]
+	path = .guides/secure/hw-sinatra-saas-hangperson-ci
+	url = git@github.com:saasbook/hw-sinatra-saas-hangperson-ci.git
